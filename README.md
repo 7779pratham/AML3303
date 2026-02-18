@@ -1,4 +1,5 @@
 # AML3303
+```
 AML3303/
 │
 ├── Assignment/                # Assignment-related materials and notebooks
@@ -8,3 +9,4 @@ AML3303/
 ├── SDLC_Principles.py         # SDLC concepts implementation
 ├── SlackWebhook.py            # Slack integration for notifications
 └── README.md                  # Project documentation
+```
